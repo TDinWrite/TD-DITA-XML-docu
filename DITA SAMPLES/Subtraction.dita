@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_zzx_hrm_3dc">
+    <title>How to Subtract Numbers</title>
+    <shortdesc>This is the description.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_jkl_yrm_3dc">
+            <p>To successfully subtract numbers, you must know what is subtraction.</p>
+        </prereq>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the minus button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the equal button.</cmd>
+            </step>
+        </steps>
+        <result id="result_ldv_nsm_3dc">
+            <p>The results from the subtraction is displayed.</p>
+        </result>
+        <example id="example_rp5_rsm_3dc">
+            <p>This is the example.</p>
+        </example>
+    </taskbody>
+</task>
